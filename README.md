@@ -1,5 +1,5 @@
 # MarioKiller
- I wanted to learn how to make 2d Unity game and while I learn it I did this. It took about 10h to learn/build and I learned from scratch.
+ I wanted to learn how to make 2d Unity game and while I learn it I did this. It took about 10h to learn/build and I started from scratch.
 
 ## Coding in Flow
 
